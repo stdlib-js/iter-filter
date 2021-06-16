@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/iter-filter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Create an iterator which filters the values of another iterator according to a predicate function.",
   "license": "Apache-2.0",
   "author": {
